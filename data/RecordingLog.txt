@@ -1,0 +1,249 @@
+[API Trapper      (2488:4220)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (32b8:6db4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1ee4:5d1c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (3660:2958)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (3660:6cf8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3660:6cf8)] Load Network Traffic Analyzers:
+[Network Analyzer (3660:6cf8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (3660:6cf8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (3660:6cf8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (3660:6cf8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (3660:6cf8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (3660:6cf8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (3660:6cf8)]     Analyzer Module: local_server (value=)
+[Network Analyzer (3660:6cf8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3660:5900)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 18.195.68.80:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.74:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (3660:3838)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.74:443   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (3660:5900)] "GET /"   
+[Network Analyzer (3660:5900)]   (Sid:  1) Client -> Server @ : 441 bytes (Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.20.109:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 7560 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 560 bytes  (Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 216.58.211.99:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (3660:2484)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.168.227:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.168.227:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (3660:4484)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 3.215.60.11:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (3660:3838)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:4734)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660: 5f0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5fcc)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:413c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (3660:6cf8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 13.227.209.78:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (3660:2484)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 216.58.208.99:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (3660: 9ec)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 130.211.5.208:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (3660:4484)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.74:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (3660: 5f0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5fcc)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:413c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660: 9ec)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (3660:5900)] "POST /oauth2/v4/token"   
+[Network Analyzer (3660:5900)]   (Sid:  2) Client -> Server @ : 704 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 18.195.68.80:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 18.195.68.80:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 18.195.68.80:80   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (3660:5900)] "POST /oauth2/v4/token"   
+[Network Analyzer (3660:5900)]   (Sid:  3) Client -> Server @ : 649 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "GET /assets/bootstrap.min.js"   
+[Network Analyzer (3660:5900)]   (Sid:  1) Client -> Server @ : 345 bytes (Service=HTTP)
+[Network Analyzer (3660:4734)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (3660:5900)] "GET /assets/bootstrap-table.js"   
+[Network Analyzer (3660:5900)]   (Sid: 13) Client -> Server @ : 347 bytes (Service=HTTP)
+[Web Request      (3660:5900)] "GET /assets/bootstrap.min.css"   
+[Network Analyzer (3660:5900)]   (Sid: 14) Client -> Server @ : 361 bytes (Service=HTTP)
+[Web Request      (3660:5900)] "GET /assets/bootstrap-table.css"   
+[Network Analyzer (3660:5900)]   (Sid: 15) Client -> Server @ : 363 bytes (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  4) Client -> Server @ : 2162 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (3660:5900)]   (Sid:  4) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "GET /autofill/hourly/bins.json"   
+[Network Analyzer (3660:5900)]   (Sid:  6) Client -> Server @ : 301 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "GET /autofill/weekly/merchants.json"   
+[Network Analyzer (3660:5900)]   (Sid:  7) Client -> Server @ : 306 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "POST /v3/user/oranonymous?app=chromeExt"   
+[Network Analyzer (3660:5900)]   (Sid:  8) Client -> Server @ : 1285 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "GET /dynamicConfig.json"   
+[Network Analyzer (3660:5900)]   (Sid:  9) Client -> Server @ : 479 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=79"   
+[Network Analyzer (3660:5900)]   (Sid:  5) Client -> Server @ : 425 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.74:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (3660:5900)]   (Sid:  2) Server -> Client : 1389 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  2) Server -> Client : 219 bytes (SSL) (Service=HTTP)
+[Web Request      (3660:5900)] "GET /ajax/libs/jquery/2.0.0/jquery.min.js"   
+[Network Analyzer (3660:5900)]   (Sid: 16) Client -> Server @ : 364 bytes (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  2) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:6498)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Web Request      (3660:5900)] "POST /oauth2/v4/token"   
+[Network Analyzer (3660:5900)]   (Sid:  2) Client -> Server @ : 698 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.74:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 1389 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 163 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  6) Server -> Client : 635 bytes (SSL) (Service=HTTP)
+[Web Request      (3660:5900)] "GET /oauth2/v1/userinfo"   
+[Network Analyzer (3660:5900)]   (Sid:  3) Client -> Server @ : 611 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  7) Server -> Client : 645 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  9) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  9) Server -> Client : 95 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 15) Server -> Client : 3975 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  4) Server -> Client : 1389 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  5) Server -> Client : 329 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  9) Server -> Client : 71 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 10080 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  4) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  9) Server -> Client : 12 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:6498)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 7560 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  4) Server -> Client : 76 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 7560 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  4) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  1) Server -> Client : 3681 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  2) Server -> Client : 1000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  2) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 13) Server -> Client : 6300 bytes  (Service=HTTP)
+[Web Request      (3660:5900)] "GET /docs/common/netcheck.gif?zx=vr9yki85tvts"   
+[Network Analyzer (3660:5900)]   (Sid: 10) Client -> Server @ : 562 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 13) Server -> Client : 15120 bytes  (Service=HTTP)
+[Network Analyzer (3660:7874)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5900)]   (Sid: 13) Server -> Client : 12600 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  8) Server -> Client : 1327 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 13) Server -> Client : 5368 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 822 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:7874)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Web Request      (3660:5900)] "GET /libs/mixpanel-2.2.min.js"   
+[Network Analyzer (3660:5900)]   (Sid: 11) Client -> Server @ : 472 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.74:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (3660:5900)]   (Sid: 16) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 10) Server -> Client : 570 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 16) Server -> Client : 12040 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 11) Server -> Client : 173 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 16380 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 11336 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 5040 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 3780 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 3780 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 12600 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 7560 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 5040 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 5040 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 6300 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 11340 bytes  (Service=HTTP)
+[Network Analyzer (3660:3298)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 5040 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 2520 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 8820 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 673 bytes  (Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 3.214.204.44:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (3660:3298)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:59f4)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:59f4)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (3660:5900)] "GET /favicon.ico"   
+[Network Analyzer (3660:5900)]   (Sid: 14) Client -> Server @ : 369 bytes (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 211 bytes  (Service=HTTP)
+[Network Analyzer (3660:5cf4)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 35.186.241.51:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 35.186.241.51:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (3660:3cc0)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:4ebc)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5734)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 151.101.38.110:443   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (3660:5900)] "POST /oauth2/v4/token"   
+[Network Analyzer (3660:5900)]   (Sid:  3) Client -> Server @ : 706 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:4ebc)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5734)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:3cc0)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 216.58.208.99:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 216.58.208.99:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (3660:5cf4)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (3660:5900)] "POST /api/mimic"   
+[Network Analyzer (3660:5900)]   (Sid: 19) Client -> Server @ : 1351 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "GET /decide/?verbose=1&version=1&lib=web&token=94b5c311692e7c9d03cef9c9a7a32eaf&ip=1&_=1576586199591"   
+[Network Analyzer (3660:5900)]   (Sid: 20) Client -> Server @ : 442 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 21) Client -> Server @ : 507 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "POST /track/?ip=1&_=1576586199596"   
+[Network Analyzer (3660:5900)]   (Sid: 21) Client -> Server @ : 1017 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "POST /v1/issuetoken"   
+[Network Analyzer (3660:5900)]   (Sid: 18) Client -> Server @ : 1322 bytes (SSL)(Service=HTTP)
+[Web Request      (3660:5900)] "POST /reserve.php"   
+[Network Analyzer (3660:5900)]   (Sid: 14) Client -> Server @ : 637 bytes (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 1032 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid:  3) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 10080 bytes  (Service=HTTP)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:5900)]   (Sid: 14) Server -> Client : 1879 bytes  (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 18) Server -> Client : 1115 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 20) Server -> Client : 1671 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:5900)]   (Sid: 21) Server -> Client : 526 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:2374)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:5900)]   (Sid: 18) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.168.206:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:5900)]   (Sid: 19) Server -> Client : 1216 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.168.206:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 216.58.208.106:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (3660:5aec)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[Network Analyzer (3660:6cf8)] Request Connection: Remote Server @ 172.217.17.67:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (3660:4464)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:7610)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:48cc)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (3660:220c)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (3660:204c)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (3660:6cf8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (3660:6cf8)] Address lookup for emadabdelkawy-hp = 10.100.8.27
+[API Trapper      (6374:3bc8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (3660:6cf8)] Request Connection: Remote Server @ 173.194.79.188:5228 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)

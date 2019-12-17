@@ -17,9 +17,9 @@ LastModifyVer=12.60.0.971
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
-LastCodeGenerationVer=
+LastCodeGenerationVer=12.60.0.971
 DisableRegenerate=0
-Encoding=
+Encoding=ANSI
 Description=
 ScriptLocale=en-US
 [Actions]
@@ -40,7 +40,7 @@ Action=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
-Action=0
+Action=1
 vuser_end=0
 [Replayed Actions]
 vuser_init=0
